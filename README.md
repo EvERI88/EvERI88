@@ -1,7 +1,9 @@
 
 <div id="header" align="center">
   <h1>## Hi there 👋,  I'm EvERI88</h1>
-  <h2>## 🌱 I’m currently learning</h2>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+          
 </div>
 
 <!--
