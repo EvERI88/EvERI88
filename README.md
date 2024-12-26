@@ -4,7 +4,7 @@
   <div>
   
   </div>
-  I’m currently learning
+  ### I’m currently learning
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="vue"/>  
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js"/>
                   
