@@ -1,12 +1,12 @@
 
 <div id="header" align="center">
-  <h1> Hi there 👋,  I'm EvERI88 🦍</h1>
+  <h1> Hi there 👋,  I'm EvERI88</h1>
   <div>
     <a href="https://t.me/everi88">
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
     </a>
   <div align="left">
-  <h3>I’m currently learning</h3>
+  <h3>I’m currently learning 🦍</h3>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="vue"/>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phalcon/phalcon-original.svg"  title="phalcon"/>
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js"/>
