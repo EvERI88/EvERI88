@@ -1,5 +1,9 @@
-## Hi there 👋
-## 🌱 I’m currently learning
+
+<div id="header" align="center">
+  <h1>## Hi there 👋,  I'm EvERI88</h1>
+  <h2>## 🌱 I’m currently learning</h2>
+</div>
+
 <!--
 **EvERI88/EvERI88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
